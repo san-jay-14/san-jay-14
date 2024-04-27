@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Gen-AI, Postresql, Flutter dev**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/san-jay-14/san-jay-14/issues)**
 
 ⚡ I speak fluent **Javascript, Python and Sarcasm**
 
