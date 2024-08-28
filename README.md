@@ -16,7 +16,7 @@
  
  🔭 I’m currently working on **CampusConnect**
  
- 🌱 I’m currently learning **Gen-AI, Postresql, Flutter dev**
+ 🌱 I’m currently learning **Gen-AI, WEB3, Android dev**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/san-jay-14/san-jay-14/issues)**
 
