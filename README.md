@@ -1,46 +1,36 @@
-# Hi there, I'm Sanjay 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Frontend+Engineer+%26+Agency+Founder;AI-First+Mindset+%7C+Design-Led+Development;Building+Scalable+Web+Applications" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 </div>
 
-## 🚀 About Me
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+there!+I'm+Sanjay+👋;Frontend+Engineer+%26+Founder;Building+Amazing+Web+Experiences!" />
+</h1>
 
-**Frontend Engineer** and **Agency Founder** with a design-led, AI-first mindset, passionate about crafting intelligent interfaces that blend modern design with performance and usability.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
+</div>
 
-- 🏢 **Currently:** Lead Frontend Engineer at **Attacked.ai** (UK-based stealth startup)
-- 🎯 **Agency:** Founded a design-first, AI-powered web agency with **15+ projects delivered**
-- 🎓 **Education:** B.Tech CSE at IIIT Kottayam (CGPA: 8.5)
-- 🌱 **Learning:** Advanced AI integration, Web3, and emerging frontend technologies
-- 💼 **Experience:** From startup MVPs to enterprise-grade applications
+## 🚀 What I Do
 
-## 💼 Professional Highlights
+🏢 **Lead Frontend Engineer** @ Attacked.ai (UK Stealth Startup)  
+🎯 **Agency Founder** - 15+ projects delivered, 3-member team  
+🎓 **CS Student** @ IIIT Kottayam | 8.5 CGPA  
+🌱 **Currently exploring:** AI integration, Web3 & emerging tech  
 
-- 🏗️ **Architecting enterprise-grade web tools** from design to production
-- 🚀 **Leading a 3-member agency team** delivering complex web applications
-- 🎯 **Supporting 4 active startup MVPs** from idea validation to scalable builds
-- 🌐 **International experience** with UK and Japan-based companies
-- 📊 **100+ beta users** engaged across various projects
+## ⚡ Quick Highlights
 
-## 🛠️ Tech Stack
+✨ Single-handedly built enterprise-grade web tools  
+🚀 Leading agency operations from client acquisition to deployment  
+🌐 International experience across UK & Japan  
+📊 Engaged 100+ beta users across various projects
 
-**Frontend:** React.js • Next.js • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS
+## 🛠️ Tech Arsenal
 
-**Backend:** Node.js • Express.js • FastAPI • Flask • Python
-
-**Database:** MongoDB • PostgreSQL • SQL
-
-**Tools & Cloud:** AWS • Git • Postman • JIRA • CI/CD Pipelines
-
-**Design:** Figma • Design Systems • UI/UX Principles
-
-## 📈 Notable Projects
-
-### [Campustown](https://campustown.in/) - *Collaboration Platform*
-Microservices-based platform for student-professor collaboration with real-time notifications, role-based applications, and optimized performance through lazy loading and bundle optimization.
-
-### Enterprise Web Tool - *Attacked.ai*
-Single-handedly architected and built an enterprise-grade application focusing on scalability, maintainability, and performance optimization.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,mongodb,postgresql,aws" />
+  <img src="https://skillicons.dev/icons?i=git,figma,postman,express,flask,fastapi" />
+</div>
 
 ## 📊 GitHub Stats
 
