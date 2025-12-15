@@ -12,17 +12,9 @@
 
 ## 🚀 What I Do
 
-🏢 **Lead Frontend Engineer** @ Attacked.ai (UK Stealth Startup)  
 🎯 **Agency Founder** - 15+ projects delivered, 3-member team  
-🎓 **CS Student** @ IIIT Kottayam | 8.5 CGPA  
+🎓 **CS Student** @ IIIT Kottayam 
 🌱 **Currently exploring:** AI integration, Web3 & emerging tech  
-
-## ⚡ Quick Highlights
-
-✨ Single-handedly built enterprise-grade web tools  
-🚀 Leading agency operations from client acquisition to deployment  
-🌐 International experience across UK & Japan  
-📊 Engaged 100+ beta users across various projects
 
 ## 🛠️ Tech Arsenal
 
